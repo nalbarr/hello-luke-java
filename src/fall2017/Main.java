@@ -11,25 +11,25 @@ public class Main {
 	public static void main(String args[]) {
 
 		// 1D as array, list or linear algebra vector of scalars
-		IterateScalars1DWithIndexes();
+		iterateScalars1DWithIndexes();
 		
 		// 1D as array, list or linear algebra vector of scalars
-		IterateScalars1DWithCollections();
+		iterateScalars1DWithCollections();
 		
 		// 1D as array, list or linear algebra vector of <Object>
-		IterateObjects1DWithIndexes();
+		iterateObjects1DWithIndexes();
 		
 		// 1D as collection of interfaces
-		IterateInterfaces1DWithCollections();
+		iterateInterfaces1DWithCollections();
 		
 		// 1D as collection of interfaces with type casting
-		IterateInterface1DWithSpecificTypeCasts();
+		iterateInterface1DWithSpecificTypeCasts();
 		
 		// 1D as different collection types for different operations (e.g., get)
-		CollectionsComplexity();
+		collectionsComplexity();
 	}
 	
-	public static void IterateScalars1DWithIndexes() {
+	public static void iterateScalars1DWithIndexes() {
 		final int I_MAX = 5;
 		for (int i = 0; i < I_MAX; i++) {
 			System.out.println(String.format("i: %d", i));
@@ -38,7 +38,7 @@ public class Main {
 	
 	// NLA. Read below for reference.
 	// i.e, https://stackoverflow.com/questions/24943663/how-to-iterate-through-an-arraylist-of-objects-of-arraylist-of-objects
-	public static void IterateScalars1DWithCollections() {
+	public static void iterateScalars1DWithCollections() {
 		// CONCEPTS:
 		// - What is List? (e.g., class, abstract class, interface)
 
@@ -59,7 +59,7 @@ public class Main {
 		
 	}
 	
-	public static void IterateObjects1DWithIndexes() {
+	public static void iterateObjects1DWithIndexes() {
 		// CONCEPTS:
 		// - What is Item? (e.g., class, abstract class, interface)
 		
@@ -75,7 +75,7 @@ public class Main {
 		}
 	}		
 	
-	public static void IterateObjects1DWithCollections() {
+	public static void iterateObjects1DWithCollections() {
 		// CONCEPTS:
 		// - What is Item? (e.g., class, abstract class, interface)
 		
@@ -91,7 +91,7 @@ public class Main {
 		}
 	}
 	
-	public static void IterateInterfaces1DWithCollections() {
+	public static void iterateInterfaces1DWithCollections() {
 		// CONCEPTS:
 		// - What is BaseItem, IItem? (e.g., class, abstract class, interface)
 		
@@ -107,7 +107,7 @@ public class Main {
 		}
 	}
 	
-	public static void IterateInterface1DWithSpecificTypeCasts() {
+	public static void iterateInterface1DWithSpecificTypeCasts() {
 		// CONCEPTS:
 		// - Why can we add both Human and KillerWhale instances
 		// - Why can we iterate through collection without indexes?
@@ -128,7 +128,7 @@ public class Main {
 		}
 	}
 	
-	public static void IterateDifferentCollections() {
+	public static void iterateDifferentCollections() {
 		// CONCEPTS:
 		// - Why do both someItems and otherItems compile?
 		// - Why are there warnings
@@ -136,9 +136,10 @@ public class Main {
 		List<Item> otherItems = new LinkedList<Item>();
 	}	
 	
-	public static void CollectionsComplexity() {
+	public static void collectionsComplexity() {
 		// CONCEPTS:
 		// - ArrayList, LinkedList
+		// - NOTE: populating each collection with 10 million integers and attempting to get an integer stored at a random index. 
 		// - Why does calling get(<index>) result in different duration times to complete (performance)?
 		// - Hpw would this influence your design of a program?
 		final int MAX_SIZE = 10000000;
@@ -173,11 +174,11 @@ public class Main {
 		System.out.println(String.format("intList2.get(%d): %d took %d milliseconds ", index, someInt2, duration));		
 	}
 	
-	//	public static void Iterate2DWithIndexes() {
+	//	public static void iterate2DWithIndexes() {
 	//	List<Item>
 	//}
 	//
-	//public static void Iterate2DWithCollections() {
+	//public static void iterate2DWithCollections() {
 	//}	
 	
 	// TERMS:
