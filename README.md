@@ -4,18 +4,32 @@ hello-luke-java
 This is project dedicated for NA/NLA pairing and guiding NLA in his learning as he ventures past K-12 and towards university.
 
 ## Goals
-* 
+* (NLA) we should define goals, without goals we can not measure progress.
 
 ## Guidelines
 (NLA)  
 This is your "anchor project".  Other projects are used to support learning here and eventually you will move in parallel, once you have a strong core and foundations.  To start, we will adventure using Java as a core base language and compare and contrast two other language C# and Python.
 
-These are at:
+I am dividing them into 3 categories: 1) basic, 2) advanced, 3) go pro
+
+### Basic
 * [hello-luke-java](https://github.com/nalbarr/hello-luke-java "Java anchor project")
 
 * [hello-luke-csharp](https://github.com/nalbarr/hello-luke-csharp "C# analog project")
 
 * [hello-luke-python](https://github.com/nalbarr/hello-luke-python "Python analog project")
+
+### Advanced
+(NLA) expand your self !!! push harder than Basic.
+* [hello-luke-java-git]
+* [hello-luke-csharp-git]
+* [hello-luke-python-git]
+
+### Go pro
+(NLA) you get here, then you know you are really good.
+* [hello-luke-unity-git]
+* [hello-luke-python-ai-git]
+* [hello-luke-unity-ai-git]
 
 I will update projects as we pair and as I hear thing that may help in the overall journey.
 
