@@ -13,14 +13,28 @@ This is your "anchor project".  Other projects are used to support learning here
 I am dividing them into 3 categories: 1) basic, 2) advanced, 3) go pro
 
 ### Basic
+These projects are based on what we explore step by step, question by question and not specifically directed but show your personal journey and evolution.
+
 * [hello-luke-java](https://github.com/nalbarr/hello-luke-java "Java anchor project")
 
 * [hello-luke-csharp](https://github.com/nalbarr/hello-luke-csharp "C# analog project")
 
 * [hello-luke-python](https://github.com/nalbarr/hello-luke-python "Python analog project")
 
+### Intermediate
+You may find these handy.  This are katas I like to use when learning a new language and helps
+distinguish specific programming language characteristics (e.g., static vs. dynamic/intepreted, strong and weak typing).  Note a small stepping point to Scala as a hybrid OO and functional language. 
+
+* [hello-shapes-java](https://github.com/nalbarr/hello-shapes-java "Java shapes project")
+
+* [hello-shapes-csharp](https://github.com/nalbarr/hello-shapes-csharp "C# shapes project")
+
+* [hello-shapes-python](https://github.com/nalbarr/hello-shapes-python "Python shapes project")
+
+* [hello-shapes-scala](https://github.com/nalbarr/hello-shapes-python "Scala shapes project")
+
 ### Advanced
-(NLA) expand your self !!! push harder than Basic.
+(NLA) expand your self !!! push harder than Basic, Intermediate.  This projects are set up more properly for real world and possibly starting an open source projects !  Here, we are more concerned with software engineering principles, project structure, testability, etc.
 * [hello-luke-java-git]
 * [hello-luke-csharp-git]
 * [hello-luke-python-git]
@@ -40,6 +54,9 @@ However, the goal is to get your exposure and fluent with leading edge methods a
 
 ## Pedagogy and Context
 There have been 4 major evolutions in NLA/NA pairing in reverse chronological order.
+
+__2018__
+Spring - Computer Science - AP. Java, Python?, Spring project, mentoring other students
 
 __2017__
 Fall - Computer Science - AP. Java, Python?, Experimentation with Unity/C#/Game Engine, mentoring other students
