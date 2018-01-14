@@ -27,6 +27,13 @@ public class Main {
 		
 		// 1D as different collection types for different operations (e.g., get)
 		collectionsComplexity();
+
+		// NAA. After some 2048 game development so new concepts creeped up.
+		// - When to use events and event listeners
+		// - Avoiding nested for loops if you can use better data structures (e.g., collections)
+		// - Separation of concerns (e.g., view, models, controllers) can you code be flexible for
+		// Java Swing, command line. How easy would it be to lift/move to Unity3D?
+		// - Starting to think more functionally (e.g., for loops vs. matrices/vectorization)
 	}
 	
 	public static void iterateScalars1DWithIndexes() {
@@ -199,7 +206,9 @@ public class Main {
 		
 	// Design patterns
 	// - Iterator pattern
+	// - Factory pattern
 	// - Strategy pattern
+	// - Interfaces
 
 	// Functional thinking
 	// - Method versus Function
@@ -207,8 +216,11 @@ public class Main {
 	// - Anonymous function
 	// - Lambda
 	// - Recursion
+	// - Abstract Data Types (ADTs)
 	
 	// Practices and discipline
-	// - Unit Test
+	// - Unit Tests
 	// - TDD
+	// - Dependency Injection (DI), Inversion of Control (IoC)
+	// - Git
 }

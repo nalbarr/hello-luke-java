@@ -27,11 +27,11 @@ distinguish specific programming language characteristics (e.g., static vs. dyna
 
 * [hello-shapes-java](https://github.com/nalbarr/hello-shapes-java "Java shapes project")
 
-* [hello-shapes-csharp](https://github.com/nalbarr/hello-shapes-csharp "C# shapes project")
+* [hello-shapes-csharp] TBD.
 
 * [hello-shapes-python](https://github.com/nalbarr/hello-shapes-python "Python shapes project")
 
-* [hello-shapes-scala](https://github.com/nalbarr/hello-shapes-python "Scala shapes project")
+* [hello-shapes-scala](https://github.com/nalbarr/hello-shapes-scala "Scala shapes project")
 
 ### Advanced
 (NLA) expand your self !!! push harder than Basic, Intermediate.  This projects are set up more properly for real world and possibly starting an open source projects !  Here, we are more concerned with software engineering principles, project structure, testability, etc.
