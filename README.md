@@ -33,6 +33,8 @@ distinguish specific programming language characteristics (e.g., static vs. dyna
 
 * [hello-shapes-scala](https://github.com/nalbarr/hello-shapes-scala "Scala shapes project")
 
+* [hello-shapes-clj](https://github.com/nalbarr/hello-shapes-clj "Clojure shapes project")
+
 ### Advanced
 (NLA) expand your self !!! push harder than Basic, Intermediate.  This projects are set up more properly for real world and possibly starting an open source projects !  Here, we are more concerned with software engineering principles, project structure, testability, etc.
 * [hello-luke-java-git]
@@ -53,16 +55,17 @@ We will start all exercises very simple with projects based on a console program
 However, the goal is to get your exposure and fluent with leading edge methods and tools over time.
 
 ## Pedagogy and Context
-There have been 4 major evolutions in NLA/NA pairing in reverse chronological order.
+There have been 5 major evolutions in NLA/NA pairing in reverse chronological order.
 
 __2018__
-Spring - Computer Science - AP. Java, Python?, Spring project, mentoring other students
+Summer.  Independent Projects.  Explore "7 Languages in 7 weeks".  Exposure to both VM post UIC EVL, KL - Loyola University.  Explore Scala, Clojure.  VM/NLA - 3D printing project.
+Spring.  Computer Science - AP. Java, Python?, Spring project, mentoring other students.
 
 __2017__
-Fall - Computer Science - AP. Java, Python?, Experimentation with Unity/C#/Game Engine, mentoring other students
+Fall.  Computer Science - AP. Java, Python?, Experimentation with Unity/C#/Game Engine, mentoring other students.
 
 __2016__ 
-Summer.  Exposure to VM and UIC EVL, Cave, Unity, Virtual Reality
+Summer.  Exposure to VM and UIC EVL, Cave, Unity, Virtual Reality.  Understanding research and scientific method.
 
 __2015__
 Spring.  Computer science - Intro.  Java.
