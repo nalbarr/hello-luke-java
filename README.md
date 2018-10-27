@@ -1,6 +1,4 @@
 # hello-luke-java
-hello-luke-java
-
 This is project dedicated for NA/NLA pairing and guiding NLA in his learning as he ventures past K-12 and towards university.
 
 ## Goals
@@ -23,7 +21,7 @@ These projects are based on what we explore step by step, question by question a
 
 ### Intermediate
 You may find these handy.  This are katas I like to use when learning a new language and helps
-distinguish specific programming language characteristics (e.g., static vs. dynamic/intepreted, strong and weak typing).  Note a small stepping point to Scala as a hybrid OO and functional language. 
+distinguish specific programming language characteristics (e.g., static vs. dynamic/intepreted, strong and weak typing).  Note a small stepping point to Scala as a hybrid OO and functional language. I added some puzzles we have worked through together.
 
 * [hello-shapes-java](https://github.com/nalbarr/hello-shapes-java "Java shapes project")
 
@@ -34,6 +32,8 @@ distinguish specific programming language characteristics (e.g., static vs. dyna
 * [hello-shapes-scala](https://github.com/nalbarr/hello-shapes-scala "Scala shapes project")
 
 * [hello-shapes-clj](https://github.com/nalbarr/hello-shapes-clj "Clojure shapes project")
+
+* [luke-eistein-puzzle-R](https://github.com/nalbarr/luke-einstein-puzzle-R)
 
 ### Advanced
 (NLA) expand your self !!! push harder than Basic, Intermediate.  This projects are set up more properly for real world and possibly starting an open source projects !  Here, we are more concerned with software engineering principles, project structure, testability, etc.
