@@ -41,11 +41,18 @@ distinguish specific programming language characteristics (e.g., static vs. dyna
 * [hello-luke-csharp-git]
 * [hello-luke-python-git]
 
+### Co-creation - i.e,. (1 + 1 > 2) !!!
+(NLA) I am not taking full credit for these.  We did these more together.  After a time, I realize we were learning more togethers as a team versus me "teaching" you.  Also, these were great refreshers for me.
+
+* [hello-luke-cljs] (https://github.com/nalbarr/hello-luke-cljs)
+* [hello-luke-haskell] (https://github.com/nalbarr/hello-luke-haskell)
+
 ### Go pro
 (NLA) you get here, then you know you are really good.
 * [hello-luke-unity-git]
 * [hello-luke-python-ai-git]
 * [hello-luke-unity-ai-git]
+* [hello-shapes-blazor] (https://github.com/nalbarr/hello-shapes-blazor)
 
 I will update projects as we pair and as I hear thing that may help in the overall journey.
 
@@ -55,9 +62,10 @@ We will start all exercises very simple with projects based on a console program
 However, the goal is to get your exposure and fluent with leading edge methods and tools over time.
 
 ## Pedagogy and Context
-There have been 5 major evolutions in NLA/NA pairing in reverse chronological order.
+There have been 6 major evolutions in NLA/NA pairing in reverse chronological order.
 
 __2018__
+Fall.  Computer Science Club.  NLA goes for more leadership and teachers others.  Sees more opportunity to build tools to help other students interested in CS because he observes "he understands how modern generation learns and what makes a good programmer".
 Summer.  Independent Projects.  Explore "7 Languages in 7 weeks".  Exposure to both VM post UIC EVL, KL - Loyola University.  Explore Scala, Clojure.  VM/NLA - 3D printing project.
 Spring.  Computer Science - AP. Java, Python?, Spring project, mentoring other students.
 
