@@ -1,8 +1,8 @@
 # hello-luke-java
-This is project dedicated for NA/NLA pairing and guiding NLA in his learning as he ventures past K-12 and towards university.
+This is project dedicated for NA/NLA pairing and guiding NLA in his learning as he ventures past K-12 and towards university.  One of the happiest times in my life is when you asked "Can you teach more more about programming?".  So, our journey begins.
 
 ## Goals
-* (NLA) we should define goals, without goals we can not measure progress.
+* (NLA) we should define goals, without goals we can not measure progress.  I will set a path, but you need to walk it and make you own way to your best self.
 
 ## Guidelines
 (NLA)  
