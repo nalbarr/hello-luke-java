@@ -41,6 +41,9 @@ distinguish specific programming language characteristics (e.g., static vs. dyna
 * [hello-luke-csharp-git]
 * [hello-luke-python-git]
 
+This one we did together so you can learn how basic web apps work with HTML5 and simple web server.
+* [hello-luke-python-flask](https://github.com/nalbarr/hello-luke-python-flask.git)
+
 ### Co-creation - i.e,. (1 + 1 > 2) !!!
 (NLA) I am not taking full credit for these.  We did these more together.  After a time, I realize we were learning more togethers as a team versus me "teaching" you.  Also, these were great refreshers for me.
 
