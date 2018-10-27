@@ -10,6 +10,9 @@ This is your "anchor project".  Other projects are used to support learning here
 
 I am dividing them into 3 categories: 1) basic, 2) advanced, 3) go pro
 
+## Tools, etc.
+We will start all exercises very simple with projects based on a console program, simple main() entry point before introducing too much other "stuff".  However, the goal is to get your exposure and fluent with leading edge methods and tools over time.
+
 ### Basic
 These projects are based on what we explore step by step, question by question and not specifically directed but show your personal journey and evolution.
 
@@ -77,18 +80,13 @@ Here are some foundations I found useful for me to learn fast about it.  The wor
 * [hello-luke-unity-git]
 * [hello-unity-ml-agents](https://github.com/nalbarr/hello-unity-ml-agents.git)
 
-### Advanced Web
+#### Advanced Web
 * [hello-shapes-blazor] (https://github.com/nalbarr/hello-shapes-blazor)
 
-### Blockchain
+#### Blockchain
 * [hello-ethereum-votingapp](https://github.com/nalbarr/hello-ethereum-votingapp.git)
 
 I will update projects as we pair and as I hear thing that may help in the overall journey.
-
-## Tools, etc.
-We will start all exercises very simple with projects based on a console program, simple main() entry point before introducing too much other "stuff".
-
-However, the goal is to get your exposure and fluent with leading edge methods and tools over time.
 
 ## Pedagogy and Context
 There have been 6 major evolutions in NLA/NA pairing in reverse chronological order.
