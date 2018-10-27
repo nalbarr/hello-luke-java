@@ -47,7 +47,7 @@ NOTE:  supporting course at [Data Science Specialization (using R)](https://gith
 
 ### Advanced
 (NLA) expand your self !!! push harder than Basic, Intermediate.  This projects are set up more properly for real world and possibly starting an open source projects !  Here, we are more concerned with software engineering principles, project structure, testability, etc.
-* [hello-luke-java-git]
+* [hello-luke-java-git](https://github.com/nalbarr/hello-luke-java-git)
 * [hello-luke-csharp-git]
 * [hello-luke-python-git]
 
