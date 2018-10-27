@@ -21,7 +21,9 @@ These projects are based on what we explore step by step, question by question a
 
 ### Intermediate
 You may find these handy.  This are katas I like to use when learning a new language and helps
-distinguish specific programming language characteristics (e.g., static vs. dynamic/intepreted, strong and weak typing).  Note a small stepping point to Scala as a hybrid OO and functional language. I added some puzzles we have worked through together.
+distinguish specific programming language characteristics (e.g., static vs. dynamic/intepreted, strong and weak typing).  Note a small stepping point to Scala as a hybrid OO and functional language. NOTE: I am avoiding too much hyper focus on Javascript.  It is popular but I do not think is forced good thinking and development early - you need to appreciate more basic CS concepts beforehand.
+
+Also, I added some puzzles we have worked through together (e.g., Einstein puzzle).
 
 * [hello-shapes-java](https://github.com/nalbarr/hello-shapes-java "Java shapes project")
 
@@ -32,6 +34,8 @@ distinguish specific programming language characteristics (e.g., static vs. dyna
 * [hello-shapes-scala](https://github.com/nalbarr/hello-shapes-scala "Scala shapes project")
 
 * [hello-shapes-clj](https://github.com/nalbarr/hello-shapes-clj "Clojure shapes project")
+
+* [hello-shapes-javascript](https://github.com/nalbarr/hello-shapes-javascript)
 
 * [luke-eistein-puzzle-R](https://github.com/nalbarr/luke-einstein-puzzle-R)
 
