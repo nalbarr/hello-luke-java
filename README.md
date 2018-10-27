@@ -32,12 +32,15 @@ Also, I added some puzzles we have worked through together (e.g., Einstein puzzl
 * [hello-shapes-python](https://github.com/nalbarr/hello-shapes-python "Python shapes project")
 
 * [hello-shapes-scala](https://github.com/nalbarr/hello-shapes-scala "Scala shapes project")
+NOTE: supporting course as [Functional Programming Principles in Scala](https://github.com/nalbarr/coursera-epfl-funprog-scala)
 
 * [hello-shapes-clj](https://github.com/nalbarr/hello-shapes-clj "Clojure shapes project")
 
 * [hello-shapes-javascript](https://github.com/nalbarr/hello-shapes-javascript)
+NOTE: supporting course at [A developers guide for Internet of Things (IBM Watson)](https://github.com/nalbarr/coursera-ibmwatson-iot-course1)
 
 * [luke-eistein-puzzle-R](https://github.com/nalbarr/luke-einstein-puzzle-R)
+NOTE:  supporting course at [Data Science Specialization (using R)](https://github.com/nalbarr/coursera-johnhopkins-datascience)
 
 ### Advanced
 (NLA) expand your self !!! push harder than Basic, Intermediate.  This projects are set up more properly for real world and possibly starting an open source projects !  Here, we are more concerned with software engineering principles, project structure, testability, etc.
@@ -57,11 +60,23 @@ This one we did together so you can learn how basic web apps work with HTML5 and
 ### Go pro
 (NLA) you get here, then you know you are really good.
 * [hello-luke-unity-git]
+* [hello-unity-ml-agents](https://github.com/nalbarr/hello-unity-ml-agents.git)
 * [hello-luke-python-ai-git]
 * [hello-luke-unity-ai-git]
 * [hello-shapes-blazor] (https://github.com/nalbarr/hello-shapes-blazor)
+* [hello-ethereum-votingapp](https://github.com/nalbarr/hello-ethereum-votingapp.git)
 
 I will update projects as we pair and as I hear thing that may help in the overall journey.
+
+### What the world wants and needs - Cognitive / AI experts
+(NLA) Cognitive is about a partnership between humans and machines.  Really it is about that humans learns and machines learn and now we will find it hard to know the difference when we do every day tasks.
+
+Do not get too distracted with only the "Data Science" hype as intersection between CS, Math/Statistics, and a Busines/Domain.  It is definitly what is hot but I think those that understand that PLUS cognitive / AI will be the future technology leaders. Think of it as building "learning systems" or "systems that learn".  
+
+Here are some foundations I found useful for me to learn fast about it.  The world moves fast and you may never really be an expert at anything but it does not means you not learn fast and possibly faster than the main stream.  You can refer to below.  I either completed the courses are audited the pieces that were necessary for industry projects, mentoring and teaching.
+
+* [Machine Learning - Andrew Ng, Stanford] (https://github.com/nalbarr/coursera-stanford-machine-learning)
+* [Deep Learning - Andrew Ng] (https://github.com/nalbarr/coursera-deeplearning.ai)
 
 ## Tools, etc.
 We will start all exercises very simple with projects based on a console program, simple main() entry point before introducing too much other "stuff".
