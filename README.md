@@ -59,16 +59,8 @@ This one we did together so you can learn how basic web apps work with HTML5 and
 
 ### Go pro
 (NLA) you get here, then you know you are really good.
-* [hello-luke-unity-git]
-* [hello-unity-ml-agents](https://github.com/nalbarr/hello-unity-ml-agents.git)
-* [hello-luke-python-ai-git]
-* [hello-luke-unity-ai-git]
-* [hello-shapes-blazor] (https://github.com/nalbarr/hello-shapes-blazor)
-* [hello-ethereum-votingapp](https://github.com/nalbarr/hello-ethereum-votingapp.git)
 
-I will update projects as we pair and as I hear thing that may help in the overall journey.
-
-### What the world wants and needs - Cognitive / AI experts
+#### What the world wants and needs - Cognitive / AI experts !!!
 (NLA) Cognitive is about a partnership between humans and machines.  Really it is about that humans learns and machines learn and now we will find it hard to know the difference when we do every day tasks.
 
 Do not get too distracted with only the "Data Science" hype as intersection between CS, Math/Statistics, and a Busines/Domain.  It is definitly what is hot but I think those that understand that PLUS cognitive / AI will be the future technology leaders. Think of it as building "learning systems" or "systems that learn".  
@@ -78,6 +70,20 @@ Here are some foundations I found useful for me to learn fast about it.  The wor
 * [Machine Learning - Andrew Ng, Stanford] (https://github.com/nalbarr/coursera-stanford-machine-learning)
 * [Neural Networks - Geoff Hinton, University of Toronto] (https://github.com/nalbarr/coursera-uoft-neural-networks)
 * [Deep Learning - Andrew Ng] (https://github.com/nalbarr/coursera-deeplearning.ai)
+
+#### Cognitive / AI
+* [playground-datascience-python](https://github.com/nalbarr/playground-datascience-python)
+* [hello-luke-python-ai-git]
+* [hello-luke-unity-git]
+* [hello-unity-ml-agents](https://github.com/nalbarr/hello-unity-ml-agents.git)
+
+### Advanced Web
+* [hello-shapes-blazor] (https://github.com/nalbarr/hello-shapes-blazor)
+
+### Blockchain
+* [hello-ethereum-votingapp](https://github.com/nalbarr/hello-ethereum-votingapp.git)
+
+I will update projects as we pair and as I hear thing that may help in the overall journey.
 
 ## Tools, etc.
 We will start all exercises very simple with projects based on a console program, simple main() entry point before introducing too much other "stuff".
