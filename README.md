@@ -76,6 +76,7 @@ Do not get too distracted with only the "Data Science" hype as intersection betw
 Here are some foundations I found useful for me to learn fast about it.  The world moves fast and you may never really be an expert at anything but it does not means you not learn fast and possibly faster than the main stream.  You can refer to below.  I either completed the courses are audited the pieces that were necessary for industry projects, mentoring and teaching.
 
 * [Machine Learning - Andrew Ng, Stanford] (https://github.com/nalbarr/coursera-stanford-machine-learning)
+* [Neural Networks - Geoff Hinton, University of Toronto] (https://github.com/nalbarr/coursera-uoft-neural-networks)
 * [Deep Learning - Andrew Ng] (https://github.com/nalbarr/coursera-deeplearning.ai)
 
 ## Tools, etc.
