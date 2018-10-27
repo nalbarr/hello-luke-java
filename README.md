@@ -57,8 +57,8 @@ This one we did together so you can learn how basic web apps work with HTML5 and
 ### Co-creation - i.e,. (1 + 1 > 2) !!!
 (NLA) I am not taking full credit for these.  We did these more together.  After a time, I realize we were learning more togethers as a team versus me "teaching" you.  Also, these were great refreshers for me.
 
-* [hello-luke-cljs] (https://github.com/nalbarr/hello-luke-cljs)
-* [hello-luke-haskell] (https://github.com/nalbarr/hello-luke-haskell)
+* [hello-luke-cljs](https://github.com/nalbarr/hello-luke-cljs)
+* [hello-luke-haskell](https://github.com/nalbarr/hello-luke-haskell)
 
 ### Go pro
 (NLA) you get here, then you know you are really good.
@@ -70,9 +70,9 @@ Do not get too distracted with only the "Data Science" hype as intersection betw
 
 Here are some foundations I found useful for me to learn fast about it.  The world moves fast and you may never really be an expert at anything but it does not means you not learn fast and possibly faster than the main stream.  You can refer to below.  I either completed the courses are audited the pieces that were necessary for industry projects, mentoring and teaching.
 
-* [Machine Learning - Andrew Ng, Stanford] (https://github.com/nalbarr/coursera-stanford-machine-learning)
-* [Neural Networks - Geoff Hinton, University of Toronto] (https://github.com/nalbarr/coursera-uoft-neural-networks)
-* [Deep Learning - Andrew Ng] (https://github.com/nalbarr/coursera-deeplearning.ai)
+* [Machine Learning - Andrew Ng, Stanford](https://github.com/nalbarr/coursera-stanford-machine-learning)
+* [Neural Networks - Geoff Hinton, University of Toronto](https://github.com/nalbarr/coursera-uoft-neural-networks)
+* [Deep Learning - Andrew Ng](https://github.com/nalbarr/coursera-deeplearning.ai)
 
 #### Cognitive / AI
 * [playground-datascience-python](https://github.com/nalbarr/playground-datascience-python)
