@@ -50,6 +50,7 @@ NOTE:  supporting course at [Data Science Specialization (using R)](https://gith
 * [hello-luke-java-git](https://github.com/nalbarr/hello-luke-java-git)
 * [hello-luke-csharp-git]
 * [hello-luke-python-git]
+* [hello-luke-fsharp.git](https://github.com/nalbarr/hello-luke-fsharp)
 
 This one we did together so you can learn how basic web apps work with HTML5 and simple web server.
 * [hello-luke-python-flask](https://github.com/nalbarr/hello-luke-python-flask.git)
