@@ -16,6 +16,8 @@ We will start all exercises using small and simple projects.  These projects wil
 ### Basic
 These projects are based on what we explore step by step, question by question and not specifically directed but show your personal journey and evolution.  I asked around on what core CS fundamentals should be covered first.
 
+- NOTE: I need to add our original C# project with your original questions for tracking.
+
 * [hello-luke-java](https://github.com/nalbarr/hello-luke-java "Java anchor project")
 
 * [hello-luke-csharp](https://github.com/nalbarr/hello-luke-csharp "C# anchor project")
@@ -28,6 +30,8 @@ You may find these handy.  This are katas I like to use when learning a new lang
 * NOTE:  I am  including a "hybrid" language of Scala that includes both object-oriented programming (OOP) and functional programming (FP) paradigms.
 
 * NOTE:  I am avoiding too much hyper focused on Javascript.  It is popular but I do not think is forced good thinking and development early - you need to appreciate more basic CS concepts beforehand.
+
+* NOTE:  Add KL/NA debate on OOP vs. FP.
 
 Also, I added some puzzles we have worked through together (e.g., Einstein puzzle).
 
@@ -64,16 +68,17 @@ This one we did together so you can learn how basic web apps work with HTML5 and
 * [hello-luke-cljs](https://github.com/nalbarr/hello-luke-cljs)
 * [hello-luke-haskell](https://github.com/nalbarr/hello-luke-haskell)
 
-### Go pro
-(NLA) you get here, then you know you are really good.
+### Go pro, Advanced Topics
+(NLA) you get here, then you know you are really good.  Define your own path.
 
 #### What the world wants and needs - Cognitive / AI experts !!!
 (NLA) Cognitive is about a partnership between humans and machines.  Really it is about that humans learns and machines learn and now we will find it hard to know the difference when we do every day tasks.
 
-Do not get too distracted with only the "Data Science" hype as intersection between CS, Math/Statistics, and a Busines/Domain.  It is definitely what is hot but I think those that understand that PLUS cognitive / AI will be the future technology leaders. Think of it as building "learning systems" or "systems that learn".  Also, your generation may even be doing quantum by the time you finish university.  
+Do not get too distracted with only the "Data Science" hype as intersection between CS, Math/Statistics, and a Business/Domain.  It is definitely what is hot but I think those that understand that PLUS cognitive / AI will be the future technology leaders. Think of it as building "learning systems" or "systems that learn".  Also, your generation may even be doing quantum by the time you finish university.  
+
 Here are some foundational courses I found useful for me to learn fast about it.  The world moves fast and you may never really be an expert at anything but it does not means you can not learn fast and possibly faster than the main stream.  
 
-You can refer to below.  I either completed the courses are audited the pieces that were necessary for industry projects, mentoring and teaching.
+You can refer to below.  I either completed the courses are audited the pieces that were necessary for industry projects, mentoring and teaching.  I hope you build your own list over time.  There is too much in the world to learn.
 
 * [Machine Learning - Andrew Ng, Stanford](https://github.com/nalbarr/coursera-stanford-machine-learning)
 * [Neural Networks - Geoff Hinton, University of Toronto](https://github.com/nalbarr/coursera-uoft-neural-networks)
@@ -94,10 +99,10 @@ You can refer to below.  I either completed the courses are audited the pieces t
 I will update projects as we pair and as I hear things you are interested that may help in the overall journey.  So much to learn together !!!
 
 ## Pedagogy and Context
-There have been 6 major evolutions in the NLA/NA pairing in reverse chronological order.  I keep notes because I am so interested in how your are learning and how I had to "unlearn" many of my biases in order mentor you.  What I thought was cool - may have not been for you.
+There have been 6 major evolutions in the NLA/NA pairing in reverse chronological order.  I keep notes because I am so interested in how your are learning and how I had to "unlearn" many of my biases in order mentor you.  What I thought was cool - may have not been for you.  Possibly, pairing is really co-creation and learning together.
 
 ### 2018
-- Fall.  Computer Science Club.  NLA goes for more leadership and teachers others.  Sees more opportunity to build tools to help other students interested in CS because he observes "he understands how modern generation learns and what makes a good programmer".  Going deep on Cloure, Rust !!!
+- Fall.  Computer Science Club.  NLA goes for more leadership and teachers others.  Sees more opportunity to build tools to help other students interested in CS because he observes "he understands how modern generation learns and what makes a good programmer".  Going deep on Cloure, Rust !!!  Independent projects - ...
 - Summer.  Independent Projects.  Explore "7 Languages in 7 weeks".  Exposure to both VM post UIC EVL, KL - Loyola University.  Explore Scala, Clojure.  VM/NLA - 3D printing project.
 - Spring.  Computer Science - AP. Java, Python?, Spring project, mentoring other students.
 
