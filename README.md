@@ -8,10 +8,10 @@ This is project dedicated for NA/NLA pairing and guiding NLA in his learning as 
 (NLA)  
 This is your "anchor project".  Other projects are used to support learning here and eventually you will move in parallel, once you have a strong core and foundations.  To start, we will adventure using Java as a core base language and compare and contrast two other languages C# and Python.
 
-I am dividing them into 3 categories: 1) basic, 2) advanced, 3) go pro
+I am dividing them into 4 categories: 1) basic, 2) intermediate, 3) advanced, 4) go pro
 
 ## Tools, etc.
-We will start all exercises using small and simple projects.  These projects will use just a console program with simple main() entry point before introducing too much other "stuff".  However, the goal is to get past this and to start building full applications using more complex architectures.
+We will start all exercises using small and simple projects.  These projects will use just a stand alone "console" program with simple main() entry point before introducing too much other "stuff".  However, the goal is to get past this and to start building full applications using more complex architectures.
 
 ### Basic
 These projects are based on what we explore step by step, question by question and not specifically directed but show your personal journey and evolution.  I asked around on what core CS fundamentals should be covered first.
@@ -63,7 +63,7 @@ This one we did together so you can learn how basic web apps work with HTML5 and
 * [hello-luke-python-flask](https://github.com/nalbarr/hello-luke-python-flask.git)
 
 ### Co-creation - i.e,. (1 + 1 > 2) !!!
-(NLA) I am not taking full credit for these.  We did these more together.  After a time, I realize we were learning more togethers as a team versus me "teaching" you.  Also, these were great refreshers for me.
+(NLA) I am not taking full credit for these.  We did these together !!!  After a time, I realize we were learning more togethers as a team versus me "teaching" you.  Also, these were great refreshers for me.
 
 * [hello-luke-cljs](https://github.com/nalbarr/hello-luke-cljs)
 * [hello-luke-haskell](https://github.com/nalbarr/hello-luke-haskell)
@@ -101,8 +101,11 @@ I will update projects as we pair and as I hear things you are interested that m
 ## Pedagogy and Context
 There have been 6 major evolutions in the NLA/NA pairing in reverse chronological order.  I keep notes because I am so interested in how your are learning and how I had to "unlearn" many of my biases in order mentor you.  What I thought was cool - may have not been for you.  Possibly, pairing is really co-creation and learning together.
 
+### 2019
+- Spring.  Computer Science Club.  NLA continues on his own learning path and enjoys learning and teaching other students and mastering his own school CS class.  Last time I checked, he ported a more classic Java based program into Clojure to see how concise he could make it.
+
 ### 2018
-- Fall.  Computer Science Club.  NLA goes for more leadership and teachers others.  Sees more opportunity to build tools to help other students interested in CS because he observes "he understands how modern generation learns and what makes a good programmer".  Going deep on Cloure, Rust !!!  Independent projects - ...
+- Fall.  Computer Science Club.  NLA goes for more leadership and teachers others.  Sees more opportunity to build tools to help other students interested in CS because he observes "he understands how modern generation learns and what makes a good programmer".  Going deep on Clojure, Rust !!!  Independent projects - ...
 - Summer.  Independent Projects.  Explore "7 Languages in 7 weeks".  Exposure to both VM post UIC EVL, KL - Loyola University.  Explore Scala, Clojure.  VM/NLA - 3D printing project.
 - Spring.  Computer Science - AP. Java, Python?, Spring project, mentoring other students.
 
