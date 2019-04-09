@@ -48,6 +48,8 @@ NOTE: supporting course as [Functional Programming Principles in Scala](https://
 
 * [hello-shapes-javascript](https://github.com/nalbarr/hello-shapes-javascript)
   - NOTE: supporting course at [A developers guide for Internet of Things (IBM Watson)](https://github.com/nalbarr/coursera-ibmwatson-iot-course1)
+  
+* [hello-shapes-swift.git](https://github.com/nalbarr/hello-shapes-swift)  
 
 * [luke-eistein-puzzle-R](https://github.com/nalbarr/luke-einstein-puzzle-R)
   - NOTE:  supporting course at [Data Science Specialization (using R)](https://github.com/nalbarr/coursera-johnhopkins-datascience)
@@ -102,7 +104,7 @@ I will update projects as we pair and as I hear things you are interested that m
 There have been 6 major evolutions in the NLA/NA pairing in reverse chronological order.  I keep notes because I am so interested in how your are learning and how I had to "unlearn" many of my biases in order mentor you.  What I thought was cool - may have not been for you.  Possibly, pairing is really co-creation and learning together.
 
 ### 2019
-- Spring.  Computer Science Club.  NLA continues on his own learning path and enjoys learning and teaching other students and mastering his own school CS class.  Last time I checked, he ported a more classic Java based program into Clojure to see how concise he could make it.
+- Spring.  Computer Science Club.  NLA continues on his own learning path and enjoys learning and teaching other students and mastering his own school CS class.  Last time I checked, he ported a more classic Java based program into Clojure to see how concise he could make it.  NLA also experiments with doing some entrepreneurship work in Swift with class mates.
 
 ### 2018
 - Fall.  Computer Science Club.  NLA goes for more leadership and teachers others.  Sees more opportunity to build tools to help other students interested in CS because he observes "he understands how modern generation learns and what makes a good programmer".  Going deep on Clojure, Rust !!!  Independent projects - ...
