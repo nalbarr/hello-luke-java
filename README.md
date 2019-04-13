@@ -25,7 +25,9 @@ These projects are based on what we explore step by step, question by question a
 * [hello-luke-python](https://github.com/nalbarr/hello-luke-python "Python anchor project")
 
 ### Intermediate
-You may find these handy.  This are katas I like to use when learning a new language and helps compar and contrast programming languages and their characteristics (e.g., static vs. dynamic/intepreted, strong and weak typing).  
+You may find these handy.  This are *katas* I like to use when learning new languages.
+
+It often helps to start with something basic and familiar.  It also helps you compare and contrast languages across different dimensions as we have learned together (e.g., static vs. dynamic/intepreted, strong and weak typing).  You will see I use hello-shapes-<lang> as a baseeline for basic abstract shape, concrete class as Triangle and Square and how to polymorph "getArea" behavior as an algorithm.  
 
 * NOTE:  I am  including a "hybrid" language of Scala that includes both object-oriented programming (OOP) and functional programming (FP) paradigms.
 
@@ -49,14 +51,18 @@ NOTE: supporting course as [Functional Programming Principles in Scala](https://
 * [hello-shapes-javascript](https://github.com/nalbarr/hello-shapes-javascript)
   - NOTE: supporting course at [A developers guide for Internet of Things (IBM Watson)](https://github.com/nalbarr/coursera-ibmwatson-iot-course1)
   
-* [hello-shapes-swift.git](https://github.com/nalbarr/hello-shapes-swift)  
+* [hello-shapes-swift](https://github.com/nalbarr/hello-shapes-swift)  
 
+### Some toy problems and puzzles we have done together
+#### Einstein puzzle
 * [luke-eistein-puzzle-R](https://github.com/nalbarr/luke-einstein-puzzle-R)
   - NOTE:  supporting course at [Data Science Specialization (using R)](https://github.com/nalbarr/coursera-johnhopkins-datascience)
 
 ### Advanced
 (NLA) expand your self !!! push harder than Basic, Intermediate.  This projects are set up more properly for real world and possibly starting an open source projects !  Here, we are more concerned with software engineering principles, project structure, testability, etc.
 * [hello-luke-java-git](https://github.com/nalbarr/hello-luke-java-git)
+* [hello-luke-java-threads-git]
+* [hello-luke-java-postgres-git]
 * [hello-luke-csharp-git]
 * [hello-luke-python-git]
 * [hello-luke-fsharp.git](https://github.com/nalbarr/hello-luke-fsharp)
@@ -105,6 +111,7 @@ There have been 6 major evolutions in the NLA/NA pairing in reverse chronologica
 
 ### 2019
 - Spring.  Computer Science Club.  NLA continues on his own learning path and enjoys learning and teaching other students and mastering his own school CS class.  Last time I checked, he ported a more classic Java based program into Clojure to see how concise he could make it.  NLA also experiments with doing some entrepreneurship work in Swift with class mates.
+- (Pre) Summer.  NLA wants more entry into concepts such as: concurrency/multi-threading, databases
 
 ### 2018
 - Fall.  Computer Science Club.  NLA goes for more leadership and teachers others.  Sees more opportunity to build tools to help other students interested in CS because he observes "he understands how modern generation learns and what makes a good programmer".  Going deep on Clojure, Rust !!!  Independent projects - ...
@@ -117,7 +124,7 @@ There have been 6 major evolutions in the NLA/NA pairing in reverse chronologica
 ### 2016 
 - Summer.  Exposure to VM and UIC EVL, Cave, Unity, Virtual Reality.  Understanding research and the scientific method.
 
-## 2015
+### 2015
 - Spring.  Computer science - Intro.  Java.
 - Fall - Experimental projects (C#, Python) - Simple syntax, attempt at 2D games (e.g., tic tac toe)
 
