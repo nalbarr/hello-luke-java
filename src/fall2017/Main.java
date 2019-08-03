@@ -28,7 +28,7 @@ public class Main {
 		// 1D as different collection types for different operations (e.g., get)
 		collectionsComplexity();
 
-		// NAA. After some 2048 game development so new concepts creeped up.
+		// NAA. After some 2048 game development some new concepts creeped up.
 		// - When to use events and event listeners
 		// - Avoiding nested for loops if you can use better data structures (e.g., collections)
 		// - Separation of concerns (e.g., view, models, controllers) can you code be flexible for
