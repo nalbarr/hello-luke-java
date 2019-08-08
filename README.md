@@ -104,12 +104,18 @@ You can refer to below.  I either completed the courses are audited the pieces t
 #### Blockchain
 * [hello-ethereum-votingapp](https://github.com/nalbarr/hello-ethereum-votingapp.git)
 
+#### Other experiments !!!
+* Google Cloud
+* Microsoft Azure
+* IBM Cloud
+
 I will update projects as we pair and as I hear things you are interested that may help in the overall journey.  So much to learn together !!!
 
 ## Pedagogy and Context
 There have been 6 major evolutions in the NLA/NA pairing in reverse chronological order.  I keep notes because I am so interested in how your are learning and how I had to "unlearn" many of my biases in order mentor you.  What I thought was cool - may have not been for you.  Possibly, pairing is really co-creation and learning together.
 
 ### 2019
+- Fall.  Prep for CS + X program !!!
 - Spring.  Computer Science Club.  NLA continues on his own learning path and enjoys learning and teaching other students and mastering his own school CS class.  Last time I checked, he ported a more classic Java based program into Clojure to see how concise he could make it.  NLA also experiments with doing some entrepreneurship work in Swift with class mates.
 - (Pre) Summer.  NLA wants more entry into concepts such as: concurrency/multi-threading, databases
 
