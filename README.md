@@ -24,6 +24,8 @@ These projects are based on what we explore step by step, question by question a
 
 * [hello-luke-python](https://github.com/nalbarr/hello-luke-python "Python anchor project")
 
+* [hello-luke-go](https://github.com/nalbarr/hello-luke-go)
+
 ### Intermediate
 You may find these handy.  This are *katas* I like to use when learning new languages.
 
@@ -51,7 +53,10 @@ NOTE: supporting course as [Functional Programming Principles in Scala](https://
 * [hello-shapes-javascript](https://github.com/nalbarr/hello-shapes-javascript)
   - NOTE: supporting course at [A developers guide for Internet of Things (IBM Watson)](https://github.com/nalbarr/coursera-ibmwatson-iot-course1)
   
-* [hello-shapes-swift](https://github.com/nalbarr/hello-shapes-swift)  
+* [hello-shapes-swift](https://github.com/nalbarr/hello-shapes-swift) 
+
+* [hello-shapes-go](https://github.com/nalbarr/hello-shapes-go)
+
 
 ### Some toy problems and puzzles we have done together
 #### Einstein puzzle
