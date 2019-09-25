@@ -26,6 +26,8 @@ These projects are based on what we explore step by step, question by question a
 
 * [hello-luke-go](https://github.com/nalbarr/hello-luke-go)
 
+* [hello-luke-dart](https://github.com/nalbarr/hello-luke-dart)
+
 ### Intermediate
 You may find these handy.  This are *katas* I like to use when learning new languages.
 
