@@ -29,15 +29,21 @@ These projects are based on what we explore step by step, question by question a
 * [hello-luke-dart](https://github.com/nalbarr/hello-luke-dart)
 
 ### Intermediate
-You may find these handy.  This are *katas* I like to use when learning new languages.
+You may find these handy.  This are *katas* I like to use when learning new programming languages.
 
-It often helps to start with something basic and familiar.  It also helps you compare and contrast languages across different dimensions as we have learned together (e.g., static vs. dynamic/intepreted, strong and weak typing).  You will see I use hello-shapes-<lang> as a baseeline for basic abstract shape, concrete class as Triangle and Square and how to polymorph "getArea" behavior as an algorithm.  
+It often helps to start with something basic and familiar.  It also helps you compare and contrast languages across different dimensions as we have learned together (e.g., static vs. dynamic/intepreted, strong and weak typing).  
 
-* NOTE:  I am  including a "hybrid" language of Scala that includes both object-oriented programming (OOP) and functional programming (FP) paradigms.
+You will see I use hello-shapes-xxx (where xxx is programming language) as a base line.
 
-* NOTE:  I am avoiding too much hyper focused on Javascript.  It is popular but I do not think is forced good thinking and development early - you need to appreciate more basic CS concepts beforehand.
+* NOTE:  There is a bias here to start with object-oriented thinking and OOP but for most that is a natural place to start since for AP computer science and most computer science programs start first with Java or C#.  The trend now is to teach Python early but we can cover that later after you learn fundamentals.
 
-* NOTE:  Add KL/NA debate on OOP vs. FP.
+* NOTE: hello-shapes has a simple goal you have two or three things such as Square, Triangle and Circle - how can you great abstractions so that can compute their areas knowing the share similar attributes (e.g., name) but different on specific algorithm to compute area.  This simple problem can be key to how you view OOP vs FP.
+
+* NOTE:  I am  including a "hybrid" language of Scala that includes both object-oriented programming (OOP) and functional programming (FP) paradigms.  There is some bias here.  That is what I learned first to pivot my OOP bias toward functional.
+
+* NOTE:  I am avoiding too much hyper focused on Javascript.  It is popular but I do not think is forces good thinking and development early - you need to appreciate more basic CS concepts beforehand.  It is easy to pick up a lot of bad habits.
+
+* NOTE:  Add KL/NA debate on OOP vs. FP. (note to self - I need to blog about AT&T Bell labs vs. Ericsson).
 
 Also, I added some puzzles we have worked through together (e.g., Einstein puzzle).
 
@@ -59,6 +65,8 @@ NOTE: supporting course as [Functional Programming Principles in Scala](https://
 
 * [hello-shapes-go](https://github.com/nalbarr/hello-shapes-go)
 
+* [hello-shapes-dart](https://github/com/nalbarr/hello-shapes-dart)
+
 
 ### Some toy problems and puzzles we have done together
 #### Einstein puzzle
@@ -78,7 +86,7 @@ This one we did together so you can learn how basic web apps work with HTML5 and
 * [hello-luke-python-flask](https://github.com/nalbarr/hello-luke-python-flask.git)
 
 ### Co-creation - i.e,. (1 + 1 > 2) !!!
-(NLA) I am not taking full credit for these.  We did these together !!!  After a time, I realize we were learning more togethers as a team versus me "teaching" you.  Also, these were great refreshers for me.
+(NLA) I am not taking full credit for these - we did these together !!!  After a time, I realize we were learning more together as a team versus me "teaching" you.  Also, these were great refreshers for me.
 
 * [hello-luke-cljs](https://github.com/nalbarr/hello-luke-cljs)
 * [hello-luke-haskell](https://github.com/nalbarr/hello-luke-haskell)
@@ -86,7 +94,7 @@ This one we did together so you can learn how basic web apps work with HTML5 and
 ### Go pro, Advanced Topics
 (NLA) you get here, then you know you are really good.  Define your own path.
 
-#### What the world wants and needs - Cognitive / AI experts !!!
+#### What the world wants and needs - Cognitive Computing / AI experts !!!
 (NLA) Cognitive is about a partnership between humans and machines.  Really it is about that humans learns and machines learn and now we will find it hard to know the difference when we do every day tasks.
 
 Do not get too distracted with only the "Data Science" hype as intersection between CS, Math/Statistics, and a Business/Domain.  It is definitely what is hot but I think those that understand that PLUS cognitive / AI will be the future technology leaders. Think of it as building "learning systems" or "systems that learn".  Also, your generation may even be doing quantum by the time you finish university.  
